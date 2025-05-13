@@ -5,8 +5,7 @@ This project provides a simple view counter badge for GitHub repositories using 
 ## 🚀 Usage
 
 1. **Deploy the app to Deno Deploy**:
-   - Upload `main.ts` from this repo.
-   - Create a new project at https://dash.deno.com and connect `main.ts`.
+   - Create a new playground/project & Copy-Paste `main.ts` from this repo.
 
 2. **Embed the counter badge in your repository's `README.md`:**
 
